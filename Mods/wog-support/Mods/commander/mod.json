@@ -6,7 +6,7 @@
 	"contact": "",
 	"modType" : "Compatibility",
 	"depends" : [
-		"wake-of-gods.level8units", 
+		"wake-of-gods.commanders", 
 		"phoenix-as-a-dream"
 	],
 	"compatibility" :
